@@ -1,0 +1,5 @@
+baseURL = "https://ztmeow.com/"
+languageCode = "en-us"
+title = "主题喵"
+theme = "hugo-notepadium"
+publishDir = "docs"
